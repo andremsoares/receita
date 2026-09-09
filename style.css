@@ -1,0 +1,47 @@
+* {
+    margin: 18px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #e1d4c2;
+}
+
+h1 {
+    font-family: arial;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-size: 27px;
+    font-weight: 400;
+    font-family: arial;
+    text-align: right;
+}
+
+p {
+    font-family: arial;
+    font-size: 50px;
+    font-weight: 650;
+}
+
+li {
+    font-family: arial;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+#torta {
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
